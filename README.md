@@ -75,7 +75,7 @@ notifications in Update Channel.
 
 - Choose A Hosting Site. And fill the mandatory vars.
 
-  #### Deploy on Heroku
+#### Deploy on Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/syahrizalemano/anobotz-master)</br>
 
   
